@@ -2,7 +2,7 @@
 
 This project demonstrates how to create a fun and artistic egg shape using pure CSS. The design includes a white egg base, a yellow yolk, and small details like eyes to make it more playful.
 
-![Aperçu du projet Egg CSS](art css egg.png)
+![Aperçu du projet Egg CSS](art-css-egg.png)
 
 
 ## Features
